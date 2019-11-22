@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+ 
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color:#09d3ac;
+  height: min-content;
+}
+
+
+
+#login{
+  background: rgb(0, 0, 0);
+  color: #ffff;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#container{
+  
+  margin: 5px;
+  color: rgb(55, 41, 61);
+  
+  
+  padding : 0 1rem;
+
+
+}
+
+#hijo-container{
+ 
+  margin-left: auto;
+
+}
